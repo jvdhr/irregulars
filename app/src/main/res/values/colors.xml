@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7BC6A5</color>
+    <color name="colorPrimaryDark">#029533</color>
+    <color name="colorAccent">#FA8B0B</color>
+    <color name="toolbarTitle">#FFF</color>
+</resources>

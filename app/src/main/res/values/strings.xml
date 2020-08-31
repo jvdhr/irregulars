@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Irregulars</string>
+
+    <string name="irregulars">Irregulars</string>
+    <string name="share">Share App</string>
+    <string name="rate">Rate App</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="exit_button">Exit</string>
+    <string name="settings">Settings</string>
+    <string name="alphabet">Alphabetic View</string>
+
+    <string name="email">summer.arts.ir@gmail.com</string>
+    <string name="no_email">No email Client found!</string>
+    <string name="try_app">"Hey! Try this awesome app!"</string>
+
+    <string name="about">Irregulars\n
+        version: 2.0\n
+        Developed and designed by:\n
+        Javad Hosseinzadeh\n
+        Mohammadreza Alizadeh\n
+        (Progressive Soft)\n
+        For more info please visit:</string>
+
+    <string name="link">http://cafebazaar.ir/app/ir.summerarts.irregulars/?l=fa</string>
+    <string name="desc">Irregulars on CafeBazaar</string>
+
+
+    <string name="typeHere">Type here...</string>
+    <string name="search">Search</string>
+    <string name="prpt">Pronounce past tense</string>
+    <string name="prpp">Pronounce past participle</string>
+    <string name="textsize">Text Size</string>
+    <string name="textsizesum">Change font size</string>
+    <string name="textcolor">Text Color</string>
+    <string name="textcolorsum">Change font color</string>
+    <string name="phonetic">Display phonetics</string>
+    <string name="phoneticsum">Show/hide phonetics</string>
+    <string name="translation">Display Persian translation</string>
+    <string name="translationsum">Show/hide Persian translation</string>
+    <string name="bg">Background</string>
+    <string name="bgsum">Choose background color</string>
+    <string name="notfound"> is not an irregular verb</string>
+    <string name="langnotfound">This Language is not supported</string>
+    <string name="ttsfailure">Initilization Failed!</string>
+    <string name="exit">Press one more time to exit</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="web">"http://cafebazaar.ir/app/ir.summerarts.irregulars/?l=fa"</string>
+
+</resources>

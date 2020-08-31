@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <!--<item android:id="@+id/action_settings" android:title="@string/action_settings"-->
+        <!--android:orderInCategory="100" app:showAsAction="never" />-->
+    <!--<item android:title="Settings"-->
+        <!--app:showAsAction="withText">-->
+            <!--&lt;!&ndash; The none checkableBehavior is default, but we explicitly show it here. &ndash;&gt;-->
+            <!--<group-->
+                <!--android:checkableBehavior="all">-->
+                <!--&lt;!&ndash; Notice how these items inherit from the group. &ndash;&gt;-->
+                <!--<item-->
+                    <!--android:id="@+id/phonetics"-->
+                    <!--android:title="Display phonetics" />-->
+                <!--<item-->
+                    <!--android:id="@+id/translation"-->
+                    <!--android:title="Persian translation" />-->
+            <!--</group>-->
+    <!--</item>-->
+</menu>

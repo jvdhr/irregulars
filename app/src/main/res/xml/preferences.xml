@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="phn"
+        android:summary="@string/phoneticsum"
+        android:title="@string/phonetic" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="trn"
+        android:summary="@string/translationsum"
+        android:title="@string/translation" />
+
+</PreferenceScreen>
